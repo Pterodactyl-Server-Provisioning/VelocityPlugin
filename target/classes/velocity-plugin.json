@@ -1,0 +1,1 @@
+{"id":"servermanager","name":"ServerManager","version":"1.0","description":"Manage The Velocity Server","url":"dynhop.io","authors":["Zero MØtion"],"dependencies":[],"main":"io.dynhop.serverManager.ServerManager"}
